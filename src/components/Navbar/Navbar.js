@@ -5,6 +5,9 @@ const Navbar = () => {
     const menuItems = <React.Fragment>
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
     </React.Fragment>
 
     return (
@@ -18,7 +21,7 @@ const Navbar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <span id="home" className="btn btn-ghost normal-case text-extrabold text-2xl text-accent">Md. Delwar Hossain</span>
+                <a href="#home" className="btn btn-ghost normal-case text-extrabold text-2xl text-accent">Md. Delwar Hossain</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
