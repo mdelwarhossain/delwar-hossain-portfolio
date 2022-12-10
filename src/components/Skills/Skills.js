@@ -2,13 +2,13 @@ import React from 'react';
 
 const Skills = () => {
     return (
-        <div className='min-h-screen my-10'>
+        <div id='skills' className='min-h-screen my-10'>
             <h2 className='text-5xl font-bold text-center mb-6'>My Skills</h2>
-            <h2 className='text-2xl font-bold text-center mb-10'>My competence goes here...</h2>
+            <h2 className='text-2xl font-semibold text-center mb-10'>My competence goes here...</h2>
             <div className='flex justify-evenly'>
                 <div className="card w-96 bg-base-100 shadow-xl">
                     <div className="card-body">
-                        <h2 className="card-title text-center">Frontend Expertise</h2>
+                        <h2 className="text-2xl font-semibold text-center mb-4">Frontend Expertise</h2>
                         <div className='flex justify-evenly'>
                             <ul>
                                 <li className='mb-5'>HTML5 <br /><small>intermidiate</small></li>
@@ -25,7 +25,7 @@ const Skills = () => {
                 </div>
                 <div className="card w-96 bg-base-100 shadow-xl">
                     <div className="card-body">
-                        <h2 className="card-title">Frontend Expertise</h2>
+                        <h2 className="text-2xl font-semibold text-center mb-4">Backend Expertise</h2>
                         <div className='flex justify-evenly'>
                             <ul>
                                 <li className='mb-5'>Node.js <br /><small>intermidiate</small></li>

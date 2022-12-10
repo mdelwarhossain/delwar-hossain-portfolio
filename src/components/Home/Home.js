@@ -3,7 +3,7 @@ import portfolio from '../../assets/portfolio1.jpg'
 
 const Home = () => {
     return (
-        <div className="hero min-h-screen lg:w-2/3 lg:mx-auto my-2">
+        <div id='home' className="hero min-h-screen lg:w-2/3 lg:mx-auto my-2">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <img src={portfolio} className="w-1/2 max-h-screen rounded-lg shadow-2xl" alt='profile'/>
                 <div>
