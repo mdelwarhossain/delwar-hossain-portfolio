@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "title": "Old Books",
+        "url": "https://i.ibb.co/F3CsMbM/footer.jpg",
+        "website": "https://resale-books-a74e3.web.app/",
+        "frontend": "https://github.com/mdelwarhossain/old-books-client",
+        "backend": "https://github.com/mdelwarhossain/old-books-server",
+        "description": "Old books eCommerce website. A seller can add a product, the buyer can book and later pay and the admin can control the users and products",
+        "features": {
+            "feature1": "Users get dashboard access based on their role. Firebase authentication and JSON web token are used to control and prevent unauthorized access.",
+            "feature2": "Node.js is used for the backend and MongoDB is for the data storage purpose. For the payment react stripe test mode is used.",
+            "feature3": "",
+            "feature4": "",
+            "feature5": ""
+        },
+        "slides": {
+            "slide1": "https://i.ibb.co/QfnV7Sc/resale-books-a74e3-web-app-dashboard-bookings-da-gmail-com-Nest-Hub-Max-3.png",
+            "slide2": "https://i.ibb.co/JnkShYw/resale-books-a74e3-web-app-dashboard-bookings-da-gmail-com-Nest-Hub-Max-6.png",
+            "slide3": "https://i.ibb.co/FbY1LSv/resale-books-a74e3-web-app-dashboard-bookings-da-gmail-com-Nest-Hub-Max-1.png",
+            "slide4": "",
+            "slide5": "",
+            "slide6": "",
+            "slide7": ""
+        }
+    },
+    {
+        "id": 2,
+        "title": "Colors",
+        "website": "https://photography-assignment-b3b07.web.app/",
+        "frontend": "https://github.com/mdelwarhossain/colors-client",
+        "backend": "https://github.com/mdelwarhossain/colors-server",
+        "url": "https://i.ibb.co/Yf3gpYh/image.png",
+        "description": "A photography service-based website. Users can choose from different services. They can also add reviews and also check reviews from other clients.",
+        "features": {
+            "feature1": "A user can check different services and see details of a service. New service is also can be added and displayed in the service section.",
+            "feature2": "If they add a review it is stored in MongoDB and later fetches data to show them in the review section.",
+            "feature3": "",
+            "feature4": "",
+            "feature5": ""
+        },
+        "slides": {
+            "slide1": "https://i.ibb.co/0j8GSWZ/photography-assignment-b3b07-web-app-Nest-Hub-Max.png",
+            "slide2": "https://i.ibb.co/SdFqYLK/photography-assignment-b3b07-web-app-Nest-Hub-Max-1.png",
+            "slide3": "https://i.ibb.co/CJYXjTk/photography-assignment-b3b07-web-app-Nest-Hub-Max-2.png"
+        }
+    },
+    {
+        "id": 3,
+        "title": "IT Schools",
+        "url": "https://i.ibb.co/YpZNyTn/it.png",
+        "website": "https://learning-platform-client-41d2f.web.app/",
+        "frontend": "https://github.com/mdelwarhossain/it-schools-client",
+        "backend": "https://photographhttps/github.com/mdelwarhossain/it-schools-servery-assignment-b3b07.web.app",
+        "description": "An IT learning website. Courses are offered from different categories and people can choose from them.",
+        "features": {
+            "feature1": "Different courses are offered. Students can explore different courses, check the details of a course, and decide. It is a responsive website with react-bootstrap.",
+            "feature2": "React icons, react hot toast and firebase authentication are implemented for a good user experience.",
+            "feature3": "",
+            "feature4": "",
+            "feature5": ""
+        },
+        "slides": {
+            "slide1": "https://i.ibb.co/Z1N6W4j/learning-platform-client-41d2f-web-app-courses-Nest-Hub-Max.png",
+            "slide2": "https://i.ibb.co/kqD7yY2/learning-platform-client-41d2f-web-app-courses-Nest-Hub-Max-2.png",
+            "slide3": "https://i.ibb.co/BPWtdRK/learning-platform-client-41d2f-web-app-courses-Nest-Hub-Max-1.png"
+        }
+    }
+]
